@@ -51,3 +51,17 @@ https://github.com/llSourcell?tab=repositories
 *Additional Resources:*   
 - People in ML to [follow on Twitter](https://www.quora.com/Who-should-I-follow-on-Twitter-to-get-useful-and-reliable-machine-learning-information "Quora.com")
 - Join the ["Wizards" Slack channel](http://wizards.herokuapp.com/ "Herokuapp.com")
+  
+* My extra resources:
+- [this guy is awesome](https://statquest.org/)
+- https://www.paperswithcode.com/
+
+
+## [How to learn ML in 2020:](https://www.youtube.com/watch?v=eN9Lb3vXsAw) 
+
+1. Pick a specific problem
+2. Go to www.paperswithcode.com
+3. Find related paper for your problem
+4. Read the paper
+5. Do your project
+6. Share project on git 
